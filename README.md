@@ -7,7 +7,13 @@ given a ClassName, will generate a ClassName.cpp and ClassName.hpp respecting th
 make
 make install
 ```
+Or if you don't own super user rights
+```
+make
+make school
+```
 
 ## Usage
 ```
 canon ClassName
+```
